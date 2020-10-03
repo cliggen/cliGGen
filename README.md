@@ -1,4 +1,4 @@
-### Hey 👋🏻 , I'm [cliggen!](https://cliggen.github.io) 
+### Hey 👋🏻 , I'm [cliggen!](https://github.com/cliggen) 
 
 <a href="https://www.linkedin.com/in/aliaksandr-matveichykau-05b7941a1/">
   <img align="left" alt="cliggen LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
