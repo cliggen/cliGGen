@@ -10,7 +10,7 @@
 <br />
 
 Hi, I'm Alex a Front End Developer 🚀 from Belarus.
-Previously I'm a orthopedics doctor. 🩺
+Previously I'm an orthopedics doctor. 🩺
   
 **Talking about Personal Stuffs:**
 
