@@ -15,7 +15,7 @@ Previously I'm an orthopedics doctor. 🩺
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on RSS School projects
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Native JS/React JS
 - 🤔 I’m looking for help with patterns understanding
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: t.me/@clggn
@@ -29,6 +29,8 @@ Previously I'm an orthopedics doctor. 🩺
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 
 
 
