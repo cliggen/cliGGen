@@ -14,7 +14,7 @@ Previously I'm an orthopedics doctor. 🩺
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on RSS School projects
+- 👨🏽‍💻 I’m currently working on React custom testing platform
 - 🌱 I’m currently learning Native JS/React JS
 - 🤔 I’m looking for help with patterns understanding
 - 💬 Ask me about anything, I am happy to help
