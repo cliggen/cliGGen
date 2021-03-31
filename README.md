@@ -15,8 +15,8 @@ Previously I'm an orthopedics doctor. 🩺
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on React custom testing platform
-- 🌱 I’m currently learning Native JS/React JS
-- 🤔 I’m looking for help with patterns understanding
+- 🌱 I’m currently developing as React JS developer
+- 🤔 I’m looking for coop-work/offers
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: t.me/@clggn
 
